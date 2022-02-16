@@ -1,0 +1,15 @@
+PROJECT(HELLO)
+
+ADD_SUBDIRECTORY(src) #向当前工程添加存放源文件的子目录
+
+INSTALL(FILES COPYRIGHT README DESTINATION share/doc/cmake/t2)
+
+INSTALL(PROGRAMS runhello.sh DESTINATION bin)
+
+INSTALL(DIRECTORY doc/ DESTINATION share/doc/cmake/t2)
+
+
+
+
+
+

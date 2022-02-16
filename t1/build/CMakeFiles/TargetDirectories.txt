@@ -1,0 +1,5 @@
+/Users/gupeng/code/c++/cmake/t1/build/CMakeFiles/edit_cache.dir
+/Users/gupeng/code/c++/cmake/t1/build/CMakeFiles/rebuild_cache.dir
+/Users/gupeng/code/c++/cmake/t1/build/src/CMakeFiles/hello.dir
+/Users/gupeng/code/c++/cmake/t1/build/src/CMakeFiles/edit_cache.dir
+/Users/gupeng/code/c++/cmake/t1/build/src/CMakeFiles/rebuild_cache.dir
